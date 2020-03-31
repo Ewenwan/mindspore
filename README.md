@@ -19,6 +19,8 @@
 
 ## What Is MindSpore
 
+[华为MindSpore之AutoParallel解析](https://zhuanlan.zhihu.com/p/120066322)
+
 MindSpore is a new open source deep learning training/inference framework that
 could be used for mobile, edge and cloud scenarios. MindSpore is designed to
 provide development experience with friendly design and efficient execution for
